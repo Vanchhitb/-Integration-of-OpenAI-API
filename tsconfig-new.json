@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "rootDir": "src",
+    "outDir": "dist",
+    "moduleResolution": "Node",
+    "strict": true,
+    "noImplicitAny": false,
+    "esModuleInterop": true,
+
+    // "allowSyntheticDefaultImports": true,
+    // "importHelpers": true,
+    // "resolveJsonModule": true,
+    // "sourceMap": true,
+    // "declaration": true,
+    // "alwaysStrict": true,
+    // "forceConsistentCasingInFileNames": true,
+    // "removeComments": true,
+    // "noImplicitAny": false,
+    // "strictNullChecks": true,
+    // "strictFunctionTypes": true,
+    // "noImplicitThis": true,
+    // "noUnusedLocals": false,
+    // "noUnusedParameters": false,
+    // "noImplicitReturns": true,
+    // "noFallthroughCasesInSwitch": true,
+    // "emitDecoratorMetadata": true,
+    // "experimentalDecorators": true,
+    // "composite": true,
+    // "skipLibCheck": true,
+    // "noEmitHelpers": false,
+    // "baseUrl": "."
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
